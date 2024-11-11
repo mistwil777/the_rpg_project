@@ -1,5 +1,5 @@
 import unittest
-
+from character import
 def test_attack(self):
     hero = Character("Hero", 100)
     enemy = Character("Enemy", 100)
