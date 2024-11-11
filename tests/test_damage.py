@@ -1,5 +1,5 @@
 import unittest
-from character import Character
+from character import 
 
 def test_take_damage(self):
     hero = Character("Hero", 100)
