@@ -1,5 +1,4 @@
 import unittest
-from character import Character
 
 def test_attack(self):
     hero = Character("Hero", 100)
