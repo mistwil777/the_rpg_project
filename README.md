@@ -3,8 +3,8 @@ Pourquoi gitHub Action et moins performant que gitLab :
 -Moins de fonctionnalités avancées pour les déploiements complexes
 -Intégration moins fluide avec d'autres outils de développement
 -Plateforme moins mature, car plus récente sur le marché
--Ressources limitées pour l'exécution des tâches
--Restrictions plus importantes sur le stockage des données
 -Moins de flexibilité dans la personnalisation de l'environnement de travail
 -Interface utilisateur parfois moins intuitive pour certaines fonctionnalités
 -Moins adapté aux besoins des grands projets d'entreprise
+
+Cependant, gitLab est plus difficile à prendre en main lorsqu'on débute en CI et c'est pour cette raison que nous avons gardé gitHub Action pour CE projet.
