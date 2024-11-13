@@ -2,7 +2,7 @@ name: Python CI_TDD
 
 on:
   push:
-    branches: [ main, dev, 'feature/**' ]
+    branches: [ dev ]
   pull_request:
     branches: [ main, dev ]
 
